@@ -50,7 +50,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
-            <version>1.2.12</version>
+            <version>1.2.24</version>
         </dependency>
         <!-- https://github.com/datafaker-net/datafaker -->
         <dependency>
